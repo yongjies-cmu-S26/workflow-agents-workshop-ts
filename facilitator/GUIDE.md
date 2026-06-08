@@ -1,5 +1,7 @@
 
+TODO
 
+Solution for worker-agents:
 ```ts
 export async function processEntry(
   client: Redis,
